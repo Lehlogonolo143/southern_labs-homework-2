@@ -1,0 +1,8 @@
+BEGIN 
+INPUT userpin
+          IF userpin == 1212
+INPUT "PIN Correct. Access Granted
+OUTPUT "PIN Incorrect "Access Denied"
+
+:END
+
